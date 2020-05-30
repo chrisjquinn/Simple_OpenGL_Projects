@@ -17,9 +17,9 @@ Simple displaying of spiral and a spiral tube, use of double buffering and vario
 
 ## Fractals
 My favourite of them all, some fractals are drawn using recursion or iteratively. The fractals drawn are:
-`fractalSquare.cpp`   -     Fractual squares filling the space defined, changing depth increases the area filled.
-`sierpinski.cpp`      -     The classic sierpinski triangle, done to a depth of 7. This can be changed to show various depths.
-`BarnsleyFern.cpp`    -     The barnsley fern fractal, this one is done iteratively instead of recursively, due to around                                                              .                           500,000 points being needed in order to render a nice looking fern.
+* `fractalSquare.cpp`   -     Fractual squares filling the space defined, changing depth increases the area filled.
+* `sierpinski.cpp`      -     The classic sierpinski triangle, done to a depth of 7. This can be changed to show various depths.
+* `BarnsleyFern.cpp`    -     The barnsley fern fractal, this one is done iteratively instead of recursively, due to around                                                              *                             500,000 points being needed in order to render a nice looking fern.
 
 
 ## Idle & Keyboard Handling
